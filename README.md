@@ -46,4 +46,4 @@
 ---
 
 ## Автор
-vany201847dody-art
+avirbeta
